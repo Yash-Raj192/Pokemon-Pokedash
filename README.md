@@ -74,8 +74,7 @@ The aim is to analyze the determinants of legendary Pokémon, find patterns amon
 
 ## License
 
-MIT License (add this if you wish to make reuse easy).
-
+MIT License
 ---
 
 > *This repository demonstrates the synergy between data science pipelines and business intelligence dashboards—showing not just code, but compelling stories in data.*
