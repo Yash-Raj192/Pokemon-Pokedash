@@ -1,7 +1,5 @@
 # Legendary Pokémon Analysis: Data Science & Power BI Dashboard
 
-![Pokémon Dashboard Screenshot](Dashboard-Image.jpg)
-
 ## Overview
 
 This project offers a comprehensive data science exploration and interactive visualization of Pokémon statistics using real-world data. Combining Python-based analysis (via Jupyter Notebook in VS Code) and a visually rich Power BI dashboard, it demonstrates advanced analytics, interactive storytelling, and best practices in end-to-end data projects.
