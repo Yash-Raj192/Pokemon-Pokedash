@@ -1,26 +1,27 @@
-# Legendary Pokémon Analysis: Data Science & Power BI Dashboard
+# Legendary Pokémon Analysis: Data Science & Power BI Dashboard 🐉📊
 
-## Overview
+## Overview 🚀
 
 This project offers a comprehensive data science exploration and interactive visualization of Pokémon statistics using real-world data. Combining Python-based analysis (via Jupyter Notebook in VS Code) and a visually rich Power BI dashboard, it demonstrates advanced analytics, interactive storytelling, and best practices in end-to-end data projects.
 
 ---
 
-## Contents
+## Contents 📁
 
 - `Project_Code.ipynb` — Jupyter Notebook with all analysis, data cleaning, modeling, and visualizations.
 - `Pokemon.csv` — Cleaned Pokémon dataset used in both analyses.
 - `Dashboard-Image.jpg` — Power BI dashboard image for quick preview.
+- *(Optional: Power BI `.pbix` file for hands-on dashboard exploration.)*
 
 ---
 
-## Problem Statement
+## Problem Statement ❓
 
 The aim is to analyze the determinants of legendary Pokémon, find patterns among generations and types, and present actionable insights for both data science and business intelligence audiences.
 
 ---
 
-## Data Science Workflow (VS Code & Jupyter)
+## Data Science Workflow (VS Code & Jupyter) 🐍📈
 
 - **Data Preprocessing:** Cleaned and encoded categorical and missing values in Pokémon data.
 - **Exploratory Data Analysis:** Used Python libraries to explore types, stats, and legendary distribution.
@@ -30,7 +31,7 @@ The aim is to analyze the determinants of legendary Pokémon, find patterns amon
 
 ---
 
-## Power BI Dashboard Highlights
+## Power BI Dashboard Highlights 🎨📊
 
 - **Title:** Legendary Pokémon Analysis Dashboard
 - **Key Features:**
@@ -43,7 +44,7 @@ The aim is to analyze the determinants of legendary Pokémon, find patterns amon
 
 ---
 
-## How to Use
+## How to Use ▶️
 
 1. **Jupyter Notebook:**
    - Open `Project_Code.ipynb` in VS Code (with Jupyter extension) or Jupyter Notebook.
@@ -53,11 +54,10 @@ The aim is to analyze the determinants of legendary Pokémon, find patterns amon
 2. **Power BI Dashboard:**
    - Open `Dashboard-Image.jpg` for a quick visual summary.
    - (Optional) Open the `.pbix` file in Power BI Desktop to interact with the dashboard.
-   - Watch the video for a guided review of dashboard features and insights.
 
 ---
 
-## Results & Insights
+## Results & Insights 📊🔍
 
 - Most legendary Pokémon cluster in specific generations and types.
 - Attack and defense stats are major contributors for legendary classification.
@@ -65,16 +65,17 @@ The aim is to analyze the determinants of legendary Pokémon, find patterns amon
 
 ---
 
-## Credits
+## Credits 🙌
 
 - Pokémon dataset from Kaggle, copyright Nintendo/Game Freak.
 - Project by Yash Raj Singh, using Python, Jupyter, VS Code, and Power BI.
 
 ---
 
-## License
+## License 📄
 
-MIT License
+MIT License.
+
 ---
 
-> *This repository demonstrates the synergy between data science pipelines and business intelligence dashboards—showing not just code, but compelling stories in data.*
+> *This repository demonstrates the synergy between data science pipelines and business intelligence dashboards—showing not just code, but compelling stories in data.* 🌟
